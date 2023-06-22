@@ -1,1 +1,1 @@
-# tf-module-amazon-mq
+rabbit mq# tf-module-amazon-mq
